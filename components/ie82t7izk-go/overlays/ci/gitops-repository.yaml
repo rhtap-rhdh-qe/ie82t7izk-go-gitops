@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ie82t7izk-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ie82t7izk-go-gitops
